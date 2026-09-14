@@ -9,12 +9,19 @@ This project combines two very different raw sources — a sales CSV and a plain
 ## Repository structure
 
 ├── Cleaning code/
+
 │ ├── sales_cleaning.py # cleans and prepares the raw sales dataset
+
 │ └── nlp_code.py # keyword-based sentiment scoring on the raw reviews text
+
 ├── Dataset before cleaning/ # original, unprocessed source files
+
 ├── Dashboard/
+
 │ └── Electronic Sales and Reviews Dashboard.pdf # final Power BI dashboards (Sales + Reviews)
+
 └── Report/
+
 └── Project Rahaf Alrehaili.pdf # detailed write-up of the cleaning, database, and modeling process — see pages 7–8 for the full analysis and recommendations
 
 ## Tools
